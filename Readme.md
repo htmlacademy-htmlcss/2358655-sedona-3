@@ -1,7 +1,9 @@
 # Личный проект «Седона»
 
 * Студент: [Роман Репин](https://up.htmlacademy.ru/htmlcss-individual/3/user/2358655).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана
+Вайнруб](https://htmlacademy.ru/profile/id166797)
+* Ссылка на сайт: [Мой проект Седона] (https://repin-pro.github.io/2358655-sedona-3/)
 
 ---
 
